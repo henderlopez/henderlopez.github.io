@@ -39,6 +39,112 @@ doi:[110.1038/s43246-020-0033-2](https://doi.org/10.1038/s43246-020-0033-2), pap
 data:[m9.figshare.11948886 at figshare](https://doi.org/10.6084/m9.figshare.11948886)
 
 - **A multiscale model of protein adsorption on a nanoparticle surface.**
-D. Power, I. Rouse, S. Poggio, E. Brandt, H. Lopez, A. Lyubartsev and V. Lobaskin.
+D. Power, I. Rouse, S. Poggio, E. Brandt, <u>H. Lopez</u>, A. Lyubartsev and V. Lobaskin.
 *Modelling and Simulation in Materials Science and Engineering* **27**, 084003 (2019).
 doi:[10.1088/1361-651x/ab3b6e](https://doi.org/10.1088/1361-651x/ab3b6e), paper:[pdf](http://henderlopez.github.io/files/Power_2019_Modelling_Simul._Mater._Sci._Eng._27_084003.pdf).
+
+- **Low-Resolution Models for the Interaction Dynamics of Coated Gold Nanoparticles with β2-microglobulin.**
+G. Brancolini, <u>H. Lopez</u>, S. Corni and V. Tozzini.
+*International Journal of Molecular Sciences* **20**, 3866 (2019).
+doi:[10.3390/ijms20163866](https://doi.org/10.3390/ijms20163866), paper:[pdf](http://henderlopez.github.io/files/ijms-20-03866.pdf).
+
+- **Protein Short-Time Diffusion in a Naturally Crowded Environment.**
+M. Grimaldo, <u>H. Lopez</u>, C. Beck, F. Roosen-Runge, M. Moulin, J. M. Devos, V. Laux, M. Hartlein, 
+S. Da Vela, R. Schweins, A. Mariani, F. Zhang, J-L. Barrat, M. Oettel, V. T. Forsyth, T. Seydel, and F. Schreiber.
+*Journal of Physical Chemistry Letters* **10**, 1709-1715 (2019).
+doi:[10.1021/acs.jpclett.9b00345](https://doi.org/10.1021/acs.jpclett.9b00345), paper:[pdf](http://henderlopez.github.io/files/acs.jpclett.9b00345.pdf).
+
+- **Label-free In-Flow Detection of Receptor Recognition Motifs on the Biomolecular Corona of Nanoparticles.**
+M. Gianneli, E. Polo, <u>H. Lopez</u>, V. Castagnola, T. Aastrup, and K. A. Dawson.
+*Nanoscale* **10**, 5474-5481 (2018).
+doi:[10.1039/C7NR07887K](https://doi.org/10.1039/C7NR07887K), paper:[pdf](http://henderlopez.github.io/files/c7nr07887k.pdf).
+
+- **Role of contact inhibition of locomotion and junctional mechanics in epithelial collective responses to injury.**
+L. Coburn, I.-M. Schouwenaar, <u>H. Lopez</u>, A. Yap, V. Lobaskin, G. A. Gomez.
+*Physical Biology* **15**, 024001 (2018).
+doi:[10.1088/1478-3975/aa976b](https://doi.org/10.1088/1478-3975/aa976b), paper:[pdf](http://henderlopez.github.io/files/Coburn_2018_Phys._Biol._15_024001.pdf).
+
+- **Using single nanoparticle tracking obtained by nanophotonic force microscopy to simultaneously characterize nanoparticle size distribution and nanoparticle-surface interactions.**
+D. R. Hristov, D. Ye, J. Medeiros de Araujo, C. Ashcroft, B. DiPaolo, R. Hart, C. Earhart, <u>H. Lopez</u> and K. A. Dawson.
+*Nanoscale* **9**, 4524-4535 (2017).
+doi:[10.1039/C6NR09331K](https://doi.org/10.1039/C6NR09331K), paper:[pdf](http://henderlopez.github.io/files/Using_single_nanoparticle_tracking_obtained_by_nan.pdf).
+
+
+- **Contact inhibition of locomotion and mechanical cross-talk between cell-cell and cell-substrate adhesion determine the pattern of junctional tension in epithelial cell aggregates.** 
+L. Coburn, <u>H. Lopez</u>, B. J. Caldwell, E. Moussa, C. Yap, R. Priya, A. Noppe, A. P. Roberts, V. Lobaskin, Z. Neufeld and G. A. Gomez.
+*Molecular Biology of the Cell* **27**, 3436-3448 (2016).
+doi:[10.1091/mbc.E16-04-0226](https://dx.doi.org/10.1091%2Fmbc.E16-04-0226), paper:[pdf](http://henderlopez.github.io/files/3436.pdf).
+
+<!--
+
+
+ 			\item H.  Lopez and V. Lobaskin.
+                        {\sf Coarse-grained model of adsorption of blood plasma proteins onto nanoparticles}. 
+			{\it Journal of Chemical Physics} 143, 243138 (2015).
+
+         		\item M. Galvagno, D. Tseluiko, <u>H. Lopez</u> and U. Thiele.
+			{\sf Continuous and discontinuous dynamic unbinding transitions in drawn film flow }. 
+			{\it Physical Review Letters}. 112, 137803 (2014).
+
+		        \item U. Thiele, D. Todorova, <u>H. Lopez</u>. 
+		        {\sf Gradient dynamics description for films of mixtures and suspensions: Dewetting triggered by coupled film height and concentration fluctuations}.
+			{\it Physical Review Letters} 111, 117801 (2013).
+
+                        \item G. Albareda, <u>H. Lopez</u>, X. Cartoix\`{a}, J. Su\~{n}\'{e} and X. Oriols.
+                        {\sf Time-dependent boundary conditions for nanoscale electron devices:
+                        Application to classical and quantum simulators}.
+                        {\it Physical Review B} 82, 085301 (2010).
+
+                        \item LDG. Sigalotti, <u>H. Lopez</u> and L. Trujillo.
+                        {\sf An adaptive SPH method for strong shocks}.
+                        {\it Journal of Computational Physics} 228, 5888-5907 (2009).
+
+                        \item <u>H. Lopez</u>, X. Oriols, J. Su\~{n}\'{e} and X. Cartoix\`{a}.
+                        {\sf High-frequency behavior of the Datta-Das Spin transistor}.
+                        {\it Applied Physics Letters} 93, 193502 (2008).
+
+                        \item <u>H. Lopez</u>, X. Oriols, J. Su\~{n}\'{e} and X. Cartoix\`{a}.
+                        {\sf Spin-Dependent Injection Model for Monte Carlo Device Simulation}.
+                        {\it Journal of Applied Physics} 104, 073702 (2008).
+
+                        \item  <u>H. Lopez</u>, G. Albareda, X. Cartoix\`{a}, J. Su\~{n}\'{e} and X. Oriols
+                        {\sf Boundary conditions with Pauli exclusion and charge neutrality:
+                        application to the Monte Carlo simulation of ballistic nanoscale devices}.
+                        {\it Journal of Computational Electronics} 7, 213-216 (2008).
+
+                        \item LDG. Sigalotti and <u>H. Lopez</u>.
+                        {\sf Adaptive kernel estimation and SPH tensile instability}.
+                        {\it Computers \& Mathematics with Applications} 55, 23-50 (2008).
+
+                        \item   <u>H. Lopez</u>, A. N. Chantis, J. Su\~{n}\'{e} and X. Cartoix\`{a}.
+                        {\sf Eigenstate fitting in the k . p method}.
+                        {\it Journal of Computational Electronics} 6, 195-198 (2007).
+
+                        \item <u>H. Lopez</u> and A. Donoso.
+                        {\sf Entangled Trajectory Dy\-na\-mics in the Husimi Representation}.
+                        {\it Journal of Chemical Physics} 125, 154111 (2006).
+
+                        \item  <u>H. Lopez</u> and LDG. Sigalotti.
+                        {\sf Oscillation of viscous drops with smoothed particle hydrodynamics.}
+                        {\it Physical Review E} 73, 051201 (2006).
+
+                        \item LDG. Sigalotti, <u>H. Lopez</u>, A. Donoso, E. Sira and
+                        J. Klapp. {\sf A shock-capturing SPH scheme based on
+                        adaptive kernel estimation}.
+                        {\it Journal of Computational Physics} 212, 124-149 (2006).
+
+                        \item <u>H. Lopez</u> and A. Donoso.
+                        {\sf Adaptive kernel methods to simulate quantum phase space flow}.
+                        {\it Condensed Matter Physics} 9, 351 (2006).
+
+                        \item J. V. Hern\'andez, W. Goit\'ia, <u>H. Lopez</u>, A. Osio, A. Cabrera,
+                        C. Sainz and K. Jaffe.
+                        {\sf Leaf-cutter ant species (Hymenoptera: Atta) differ in the
+                        types of cues used to differentiate between self and others.}
+                        {\it Animal Behaviour} 71, 945-952 (2006).
+
+                       \item J. V. Hern\'andez, <u>H. Lopez</u> and K. Jaffe.
+                       {\sf Nest\-mate recognition signals of the ant {\it Atta laevigata}
+                       (Hy\-me\-nop\-te\-ra: Formicidae)}.
+                       {\it Journal of Insect Physiology} 48, 287-295 (2002).
+-->

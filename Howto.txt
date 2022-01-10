@@ -1,0 +1,28 @@
+# Template from: https://github.com/academicpages/academicpages.github.io
+See README.md for more info.
+
+# To add publication:
+
+Edit the file _pages/publications.md
+Add pdfs to the folder files.
+
+# To add pages:
+
+Edit the file _data/navigation.yml
+
+# To see the changes of the webpage:
+> bundle exec jekyll liveserve
+
+This will create and update the home webpage. Now to see others parts, add /other (where other is the page) to the 
+browser webpage. 
+
+# To update the webpage:
+
+After changes run:
+> git status
+> git add  *
+here just add the file you want if you don't want to add all of them
+> git commit -m "My Comment"
+> git push
+
+

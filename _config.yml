@@ -146,6 +146,10 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/archive-layout-with-content.md
+  - _pages/cv.md
+  - _pages/markdown.md
+  - Howto.txt
 keep_files:
   - .git
   - .svn

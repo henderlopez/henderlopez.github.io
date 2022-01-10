@@ -150,6 +150,13 @@ exclude:
   - _pages/cv.md
   - _pages/markdown.md
   - Howto.txt
+  - _portfolio
+  - _posts
+  - talkmap
+  - _talks
+  - _teaching
+  - _drafts
+  
 keep_files:
   - .git
   - .svn

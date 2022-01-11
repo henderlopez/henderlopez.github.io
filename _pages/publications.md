@@ -17,6 +17,17 @@ author_profile: true
 
 For a more complete (updated) list of my articles see my <a href="{{author.googlescholar}}">Google Scholar</a> or my <a href="{{author.researchgate}}">Research Gate</a> profiles.
 
+- **A nanoscale shape-discovery framework supporting systematic investigations of shape-dependent biological
+effects and immunomodulation.**
+W. Zhang, <u>H. Lopez</u>, L. Boselli, P. Bigini, A. Perez-Potti, Z. Xie, V.
+Castagnola, Q. Cai, C. P. Silveira, J. M. de Araujo, L. Talamini, N. Panini,
+G. Ristagno, M. B. Violatto, S. Devineau, M. Monopoli, M. Salmona, V. A.
+Giannone, S. Lara, K. A. Dawson and Y. Yan.
+*ACS Nano* **Accepted.**
+doi:[10.1021/acsnano.1c10074](https://doi.org/10.1021/acsnano.1c10074), paper:[pdf](http://henderlopez.github.io/files/acsnano.1c10074.pdf),
+data:[m9.figshare.17429657 at figshare](https://doi.org/10.6084/m9.figshare.17429657)
+
+
 - **In depth characterisation of the biomolecular coronas of polymer
 coated inorganic nanoparticles with differential centrifugal sedimentation.**
 A. Perez-Potti, <u>H. Lopez</u>, B. Pelaz, A. Abdelmonem, M. G. Soliman, I.
@@ -89,63 +100,56 @@ U. Thiele, D. Todorova, <u>H. Lopez</u>.
 *Physical Review Letters* **111**, 117801 (2013).
 doi:[10.1103/PhysRevLett.111.117801](http://dx.doi.org/10.1103/PhysRevLett.111.117801), paper:[pdf](http://henderlopez.github.io/files/ThTL2013prl.pdf).
 
-<!--
+- **Time-dependent boundary conditions for nanoscale electron devices: Application to classical and quantum simulators.**
+G. Albareda, <u>H. Lopez</u>, X. Cartoixa, J. Sune and X. Oriols.
+*Physical Review B* **82**, 085301 (2010).
+doi:[10.1103/PhysRevB.82.085301](http://dx.doi.org/10.1103/PhysRevB.82.085301), paper:[pdf](http://henderlopez.github.io/files/albareda2010.pdf).
 
-                        \item G. Albareda, <u>H. Lopez</u>, X. Cartoix\`{a}, J. Su\~{n}\'{e} and X. Oriols.
-                        {\sf Time-dependent boundary conditions for nanoscale electron devices:
-                        Application to classical and quantum simulators}.
-                        {\it Physical Review B} 82, 085301 (2010).
+- **An adaptive SPH method for strong shocks.**
+LDG. Sigalotti, <u>H. Lopez</u> and L. Trujillo.
+*Journal of Computational Physics* **228**, 5888-5907 (2009).
 
-                        \item LDG. Sigalotti, <u>H. Lopez</u> and L. Trujillo.
-                        {\sf An adaptive SPH method for strong shocks}.
-                        {\it Journal of Computational Physics} 228, 5888-5907 (2009).
+- **High-frequency behavior of the Datta-Das Spin transistor.**
+<u>H. Lopez</u>, X. Oriols, J. Sune and X. Cartoixa.
+*Applied Physics Letters* **93**, 193502 (2008).
 
-                        \item <u>H. Lopez</u>, X. Oriols, J. Su\~{n}\'{e} and X. Cartoix\`{a}.
-                        {\sf High-frequency behavior of the Datta-Das Spin transistor}.
-                        {\it Applied Physics Letters} 93, 193502 (2008).
+- **Spin-Dependent Injection Model for Monte Carlo Device Simulation.**
+<u>H. Lopez</u>, X. Oriols, J. Sune and X. Cartoixa.
+*Journal of Applied Physics* **104**, 073702 (2008).
 
-                        \item <u>H. Lopez</u>, X. Oriols, J. Su\~{n}\'{e} and X. Cartoix\`{a}.
-                        {\sf Spin-Dependent Injection Model for Monte Carlo Device Simulation}.
-                        {\it Journal of Applied Physics} 104, 073702 (2008).
+- **Boundary conditions with Pauli exclusion and charge neutrality: application to the Monte Carlo simulation of ballistic nanoscale devices.**
+H. Lopez</u>, G. Albareda, X. Cartoixa, J. Sune and X. Oriols.
+*Journal of Computational Electronics* **7**, 213-216 (2008).
 
-                        \item  <u>H. Lopez</u>, G. Albareda, X. Cartoix\`{a}, J. Su\~{n}\'{e} and X. Oriols
-                        {\sf Boundary conditions with Pauli exclusion and charge neutrality:
-                        application to the Monte Carlo simulation of ballistic nanoscale devices}.
-                        {\it Journal of Computational Electronics} 7, 213-216 (2008).
+- **Adaptive kernel estimation and SPH tensile instability.** 
+LDG. Sigalotti and <u>H. Lopez</u>.
+*Computers & Mathematics with Applications* **55**, 23-50 (2008).
 
-                        \item LDG. Sigalotti and <u>H. Lopez</u>.
-                        {\sf Adaptive kernel estimation and SPH tensile instability}.
-                        {\it Computers \& Mathematics with Applications} 55, 23-50 (2008).
+- **Eigenstate fitting in the k.p method.**
+<u>H. Lopez</u>, A. N. Chantis, J. Sune and X. Cartoixa.
+*Journal of Computational Electronics* **6**, 195-198 (2007).
 
-                        \item   <u>H. Lopez</u>, A. N. Chantis, J. Su\~{n}\'{e} and X. Cartoix\`{a}.
-                        {\sf Eigenstate fitting in the k . p method}.
-                        {\it Journal of Computational Electronics} 6, 195-198 (2007).
+- **Entangled Trajectory Dynamics in the Husimi Representation.**
+<u>H. Lopez</u> and A. Donoso.
+*Journal of Chemical Physics* **125**, 154111 (2006).
 
-                        \item <u>H. Lopez</u> and A. Donoso.
-                        {\sf Entangled Trajectory Dy\-na\-mics in the Husimi Representation}.
-                        {\it Journal of Chemical Physics} 125, 154111 (2006).
+- **Oscillation of viscous drops with smoothed particle hydrodynamics.**
+<u>H. Lopez</u> and LDG. Sigalotti.
+*Physical Review E* **73**, 051201 (2006).
 
-                        \item  <u>H. Lopez</u> and LDG. Sigalotti.
-                        {\sf Oscillation of viscous drops with smoothed particle hydrodynamics.}
-                        {\it Physical Review E} 73, 051201 (2006).
+- **A shock-capturing SPH scheme based on adaptive kernel estimation.**
+LDG. Sigalotti, <u>H. Lopez</u>, A. Donoso, E. Sira and J. Klapp.
+*Journal of Computational Physics* **212**, 124-149 (2006).
 
-                        \item LDG. Sigalotti, <u>H. Lopez</u>, A. Donoso, E. Sira and
-                        J. Klapp. {\sf A shock-capturing SPH scheme based on
-                        adaptive kernel estimation}.
-                        {\it Journal of Computational Physics} 212, 124-149 (2006).
+- **Adaptive kernel methods to simulate quantum phase space flow.**
+<u>H. Lopez</u> and A. Donoso.
+*Condensed Matter Physics* **9**, 351 (2006).
 
-                        \item <u>H. Lopez</u> and A. Donoso.
-                        {\sf Adaptive kernel methods to simulate quantum phase space flow}.
-                        {\it Condensed Matter Physics} 9, 351 (2006).
+- **Leaf-cutter ant species (Hymenoptera: Atta) differ in the types of cues used to differentiate between self and others.**
+J. V. Hernandez, W. Goitia, <u>H. Lopez</u>, A. Osio, A. Cabrera,C. Sainz and K. Jaffe.
+*Animal Behaviour* **71**, 945-952 (2006).
 
-                        \item J. V. Hern\'andez, W. Goit\'ia, <u>H. Lopez</u>, A. Osio, A. Cabrera,
-                        C. Sainz and K. Jaffe.
-                        {\sf Leaf-cutter ant species (Hymenoptera: Atta) differ in the
-                        types of cues used to differentiate between self and others.}
-                        {\it Animal Behaviour} 71, 945-952 (2006).
+- **Nestmate recognition signals of the ant *Atta laevigata* (Hymenoptera: Formicidae).**
+J. V. Hernandez, <u>H. Lopez</u> and K. Jaffe.
+*Journal of Insect Physiology* **48**, 287-295 (2002).
 
-                       \item J. V. Hern\'andez, <u>H. Lopez</u> and K. Jaffe.
-                       {\sf Nest\-mate recognition signals of the ant {\it Atta laevigata}
-                       (Hy\-me\-nop\-te\-ra: Formicidae)}.
-                       {\it Journal of Insect Physiology} 48, 287-295 (2002).
--->

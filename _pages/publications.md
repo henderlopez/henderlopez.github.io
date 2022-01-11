@@ -69,26 +69,27 @@ D. R. Hristov, D. Ye, J. Medeiros de Araujo, C. Ashcroft, B. DiPaolo, R. Hart, C
 *Nanoscale* **9**, 4524-4535 (2017).
 doi:[10.1039/C6NR09331K](https://doi.org/10.1039/C6NR09331K), paper:[pdf](http://henderlopez.github.io/files/Using_single_nanoparticle_tracking_obtained_by_nan.pdf).
 
-
 - **Contact inhibition of locomotion and mechanical cross-talk between cell-cell and cell-substrate adhesion determine the pattern of junctional tension in epithelial cell aggregates.** 
 L. Coburn, <u>H. Lopez</u>, B. J. Caldwell, E. Moussa, C. Yap, R. Priya, A. Noppe, A. P. Roberts, V. Lobaskin, Z. Neufeld and G. A. Gomez.
 *Molecular Biology of the Cell* **27**, 3436-3448 (2016).
 doi:[10.1091/mbc.E16-04-0226](https://dx.doi.org/10.1091%2Fmbc.E16-04-0226), paper:[pdf](http://henderlopez.github.io/files/3436.pdf).
 
+- **Coarse-grained model of adsorption of blood plasma proteins onto nanoparticles.**
+<u>H. Lopez</u> and V. Lobaskin.
+*Journal of Chemical Physics* **143**, 243138 (2015).
+doi:[10.1063/1.4936908](https://doi.org/10.1063/1.4936908), paper:[pdf](http://henderlopez.github.io/files/Coarse-grained_model_of_adsorption_of_blood_plasma.pdf).
+
+- **Continuous and discontinuous dynamic unbinding transitions in drawn film flow.**
+M. Galvagno, D. Tseluiko, <u>H. Lopez</u> and U. Thiele.
+*Physical Review Letters* **112**, 137803 (2014).
+doi:[10.1103/PhysRevLett.112.137803](http://dx.doi.org/10.1103/PhysRevLett.112.137803), paper:[pdf](http://henderlopez.github.io/files/GTLT2014prl.pdf).
+
+- **Gradient dynamics description for films of mixtures and suspensions: Dewetting triggered by coupled film height and concentration fluctuations.**
+U. Thiele, D. Todorova, <u>H. Lopez</u>.
+*Physical Review Letters* **111**, 117801 (2013).
+doi:[10.1103/PhysRevLett.111.117801](http://dx.doi.org/10.1103/PhysRevLett.111.117801), paper:[pdf](http://henderlopez.github.io/files/ThTL2013prl.pdf).
+
 <!--
-
-
- 			\item H.  Lopez and V. Lobaskin.
-                        {\sf Coarse-grained model of adsorption of blood plasma proteins onto nanoparticles}. 
-			{\it Journal of Chemical Physics} 143, 243138 (2015).
-
-         		\item M. Galvagno, D. Tseluiko, <u>H. Lopez</u> and U. Thiele.
-			{\sf Continuous and discontinuous dynamic unbinding transitions in drawn film flow }. 
-			{\it Physical Review Letters}. 112, 137803 (2014).
-
-		        \item U. Thiele, D. Todorova, <u>H. Lopez</u>. 
-		        {\sf Gradient dynamics description for films of mixtures and suspensions: Dewetting triggered by coupled film height and concentration fluctuations}.
-			{\it Physical Review Letters} 111, 117801 (2013).
 
                         \item G. Albareda, <u>H. Lopez</u>, X. Cartoix\`{a}, J. Su\~{n}\'{e} and X. Oriols.
                         {\sf Time-dependent boundary conditions for nanoscale electron devices:

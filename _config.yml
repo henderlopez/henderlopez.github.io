@@ -146,17 +146,8 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - _pages/archive-layout-with-content.md
-  - _pages/cv.md
-  - _pages/markdown.md
   - Howto.txt
-  - _portfolio
-  - _posts
-  - talkmap
-  - _talks
-  - _teaching
-  - _drafts
-  
+  - bk_webpage_template/*
 keep_files:
   - .git
   - .svn
@@ -202,17 +193,17 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  # _posts
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
   # _pages
   - scope:
       path: ""
@@ -220,15 +211,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  # _teaching
+#  - scope:
+#      path: ""
+#      type: teaching
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
   # _publications
   - scope:
       path: ""
@@ -238,23 +229,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  # _portfolio
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comment: true
+#  # _talks
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 # Sass/SCSS
 sass:

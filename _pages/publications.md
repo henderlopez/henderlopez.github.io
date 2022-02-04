@@ -17,13 +17,18 @@ author_profile: true
 
 For a more complete (updated) list of my articles see my <a href="{{author.googlescholar}}">Google Scholar</a> or my <a href="{{author.researchgate}}">Research Gate</a> profiles.
 
+- **A microfluidic approach for synthesis and kinetic profiling of branched gold nanostructures.**
+Q. Cai, V. Castagnola, L. Boselli, A. Moura, <u>H. Lopez</u>, W. Zhang, J. M. de Araujo  and  K. A. Dawson.
+*Nanoscale Horizon* Accepted (2022).
+doi:[10.1039/d1nh00540e](https://doi.org/10.1039/D1NH00540E), paper:[pdf](http://henderlopez.github.io/files/d1nh00540e.pdf)
+
 - **A nanoscale shape-discovery framework supporting systematic investigations of shape-dependent biological
 effects and immunomodulation.**
 W. Zhang, <u>H. Lopez</u>, L. Boselli, P. Bigini, A. Perez-Potti, Z. Xie, V.
 Castagnola, Q. Cai, C. P. Silveira, J. M. de Araujo, L. Talamini, N. Panini,
 G. Ristagno, M. B. Violatto, S. Devineau, M. Monopoli, M. Salmona, V. A.
 Giannone, S. Lara, K. A. Dawson and Y. Yan.
-*ACS Nano* **Accepted.**
+*ACS Nano* **16**, 1547–1559 (2022).
 doi:[10.1021/acsnano.1c10074](https://doi.org/10.1021/acsnano.1c10074), paper:[pdf](http://henderlopez.github.io/files/acsnano.1c10074.pdf),
 data:[m9.figshare.17429657 at figshare](https://doi.org/10.6084/m9.figshare.17429657)
 

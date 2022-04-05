@@ -19,7 +19,7 @@ For a more complete (updated) list of my articles see my <a href="{{author.googl
 
 - **A microfluidic approach for synthesis and kinetic profiling of branched gold nanostructures.**
 Q. Cai, V. Castagnola, L. Boselli, A. Moura, <u>H. Lopez</u>, W. Zhang, J. M. de Araujo  and  K. A. Dawson.
-*Nanoscale Horizon* Accepted (2022).
+*Nanoscale Horizon* **7**, 288-298 (2022).
 doi:[10.1039/d1nh00540e](https://doi.org/10.1039/D1NH00540E), paper:[pdf](http://henderlopez.github.io/files/d1nh00540e.pdf)
 
 - **A nanoscale shape-discovery framework supporting systematic investigations of shape-dependent biological
@@ -45,7 +45,7 @@ doi:[10.1038/s41598-021-84029-8](https://doi.org/10.1038/s41598-021-84029-8), pa
 D. R. Hristov, <u>H. Lopez</u>, Y. Ortin, K. O’Sullivan, K. A. Dawson and D. F.
 Brougham.
 *Nanoscale* **11**, 5344-5355 (2021).
-doi:[10.1039/D0NR08294E](http://dx.doi.org/10.1039/D0NR08294E)
+doi:[10.1039/D0NR08294E](http://dx.doi.org/10.1039/D0NR08294E), paper:[pdf](http://henderlopez.github.io/files/d0nr08294e.pdf)
 
 - **Classification and Biological Identity of Complex Nano Shapes.**
 L. Boselli, <u>H. Lopez</u>, W. Zhang, Q. Cai, V. A. Giannone, J. Li, A. Moura,

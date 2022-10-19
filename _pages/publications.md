@@ -17,6 +17,12 @@ author_profile: true
 
 For a more complete (updated) list of my articles see my <a href="{{author.googlescholar}}">Google Scholar</a> or my <a href="{{author.researchgate}}">Research Gate</a> profiles.
 
+- **Short-Time Transport Properties of Bidisperse Suspensions of Immunoglobulins and Serum Albumins Consistent with a Colloid Physics Picture.**
+C. Beck, M. Grimaldo, <u>H. Lopez</u>, S. Da Vela, B. Sohmen, F. Zhang, M. Oettel, J-L. Barrat, F. Roosen-Runge, F. Schreiber, and T. Seydel.
+*J. Phys. Chem. B* **126**, 7400-7408 (2022).
+doi:[10.1021/acs.jpcb.2c02380](https://doi.org/10.1021/acs.jpcb.2c02380)
+
+
 - **A microfluidic approach for synthesis and kinetic profiling of branched gold nanostructures.**
 Q. Cai, V. Castagnola, L. Boselli, A. Moura, <u>H. Lopez</u>, W. Zhang, J. M. de Araujo  and  K. A. Dawson.
 *Nanoscale Horizon* **7**, 288-298 (2022).

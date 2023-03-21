@@ -17,6 +17,13 @@ author_profile: true
 
 For a more complete (updated) list of my articles see my <a href="{{author.googlescholar}}">Google Scholar</a> or my <a href="{{author.researchgate}}">Research Gate</a> profiles.
 
+- **Effects of flexibility in coarse-grained models for bovine serum albumin and immunoglobulin G.**
+ F. Hirschmann,  <u>H. Lopez</u>,  F. Roosen-Runge,  T. Seydel,  F. Schreiber, and  M. Oettel.
+*J. Phys. Chem.* **158**, 084112 (2023).
+doi:[10.1063/5.0132493](https://doi.org/10.1063/5.0132493), paper:[pdf](http://henderlopez.github.io/files/JCP22-AR-03480.pdf).
+ This article may be downloaded for personal use only. Any other use requires prior permission of the author and AIP Publishing. 
+ This article appeared in *J. Phys. Chem.* **158**, 084112 (2023) and may be found at https://doi.org/10.1063/5.0132493.
+
 - **Short-Time Transport Properties of Bidisperse Suspensions of Immunoglobulins and Serum Albumins Consistent with a Colloid Physics Picture.**
 C. Beck, M. Grimaldo, <u>H. Lopez</u>, S. Da Vela, B. Sohmen, F. Zhang, M. Oettel, J-L. Barrat, F. Roosen-Runge, F. Schreiber, and T. Seydel.
 *J. Phys. Chem. B* **126**, 7400-7408 (2022).

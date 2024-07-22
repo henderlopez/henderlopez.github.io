@@ -11,7 +11,7 @@ redirect_from:
 
 ### Technological University Dublin (TU Dublin), School of Physics
 
-I am an Assistant Lecturer in the School of Physics at TU Dublin where I teach programming and data science, amongst other topics. 
+I am an Lecturer at the School of Physics, Clinical and Optometric Sciences, TU Dublin where I teach physics, programming and data science. 
 
 
 My research interest mainly focuses on multiscale computational and mathematical modelling of soft matter with special emphasis in nanoscale physical-chemistry and bionano-interaction. I am also a member of the [Nanolab](https://www.tudublin.ie/research/discover-our-research/research-institutes-centres-and-groups/nanolab/) at the [Focas 

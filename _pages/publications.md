@@ -17,6 +17,12 @@ author_profile: true
 
 For a more complete (updated) list of my articles see my <a href="{{author.googlescholar}}">Google Scholar</a> or my <a href="{{author.researchgate}}">Research Gate</a> profiles.
 
+- **Biomimetic Plasmonic Nanophages by Head/Tail Self-Assembling: Gold Nanoparticle/Virus Interactions**
+H. Ahmed, <u>H. Lopez</u>, F. Boselli, G. Tarricone, S. Vercellino, P. Emidio Costantini, V. Castagnola, M. Veronesi,
+F. Benfenati, A. Danielli, L. Boselli and P. P. Pompa.
+*ACS Nano.* **18**, 21302–21315, (2024).
+doi:[10.1021/acsnano.4c05198](https://doi.org/10.1021/acsnano.4c05198)
+
 - **Effects of flexibility in coarse-grained models for bovine serum albumin and immunoglobulin G.**
  F. Hirschmann,  <u>H. Lopez</u>,  F. Roosen-Runge,  T. Seydel,  F. Schreiber, and  M. Oettel.
 *J. Phys. Chem.* **158**, 084112 (2023).

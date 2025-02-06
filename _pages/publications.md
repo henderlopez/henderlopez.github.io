@@ -17,6 +17,12 @@ author_profile: true
 
 For a more complete (updated) list of my articles see my <a href="{{author.googlescholar}}">Google Scholar</a> or my <a href="{{author.researchgate}}">Research Gate</a> profiles.
 
+- **Monosaccharide coatings on nanoparticles affect protein corona formation but not the interaction with their binding receptor.**
+E. Clemente, R. Mateu, A. Ferreira, T. Ludtke, <u>H. Lopez</u>, S. E. Moya, L. Lay, M. G. Soliman and M. P. Monopoli.
+*Front. Nanotechnol.* **6**:1505757, (2025). 
+doi:[10.3389/fnano.2024.1505757](https://doi.org/10.3389/fnano.2024.1505757), paper:[pdf](http://henderlopez.github.io/files/fnano-06-1505757.pdf).
+
+
 - **Biomimetic Plasmonic Nanophages by Head/Tail Self-Assembling: Gold Nanoparticle/Virus Interactions**
 H. Ahmed, <u>H. Lopez</u>, F. Boselli, G. Tarricone, S. Vercellino, P. Emidio Costantini, V. Castagnola, M. Veronesi,
 F. Benfenati, A. Danielli, L. Boselli and P. P. Pompa.

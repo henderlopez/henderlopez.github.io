@@ -17,6 +17,11 @@ author_profile: true
 
 For a more complete (updated) list of my articles see my <a href="{{author.googlescholar}}">Google Scholar</a> or my <a href="{{author.researchgate}}">Research Gate</a> profiles.
 
+- **Distinct binding strategies of plasma proteins on gold surfaces: ﬂexibility versus stability in the protein corona formation.**
+B. Cipriani, <u>H. Lopez</u> and G. Brancolini.
+*Front. Nanotechnol.* **7**:1603727, (2025). 
+doi:[10.3389/fnano.2025.1603727](https://doi.org/10.3389/fnano.2025.1603727), paper:[pdf](http://henderlopez.github.io/files/fnano-1-1603727.pdf).
+
 - **Monosaccharide coatings on nanoparticles affect protein corona formation but not the interaction with their binding receptor.**
 E. Clemente, R. Mateu, A. Ferreira, T. Ludtke, <u>H. Lopez</u>, S. E. Moya, L. Lay, M. G. Soliman and M. P. Monopoli.
 *Front. Nanotechnol.* **6**:1505757, (2025). 
